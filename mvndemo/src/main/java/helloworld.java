@@ -4,7 +4,7 @@ public class helloworld {
     public static void main(String[] args)
     {
         helloworld obj=new helloworld();
-        System.out.println("Please Enter ");
+        System.out.println("Pleaseee Enter ");
         Scanner scanner=new Scanner(System.in);
         int n =scanner.nextInt();
         System.out.println(obj.fact(n));
